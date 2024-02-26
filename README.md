@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @daivpaul
-- 👀 I’m interested in linux kernel, pyhton and aasembly
+- 👀 I’m interested in linux kernel, python and aasembly
 - 📫 You can reach me at daivpaul@outlook.com
 
 <!---
